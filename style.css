@@ -2629,4 +2629,9 @@
     }
   
   }
+ .header-logo{
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin-left: 100px;
+  }
   
